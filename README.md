@@ -4,7 +4,7 @@ Sistema fullstack para gerenciamento de funcionários e análise de ponto eletr�
 
 ## Tecnologias
 
-**Backend:** Python 3.11 · FastAPI · SQLAlchemy · MySQL · Pandas · Clean Architecture
+**Backend:** Python 3.11 · FastAPI · SQLAlchemy · MySQL · Pandas · Arquitetura Hexagonal
 
 **Frontend:** React · Vite
 
