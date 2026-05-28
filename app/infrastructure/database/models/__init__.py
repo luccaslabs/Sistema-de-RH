@@ -1,0 +1,5 @@
+from app.infrastructure.database.models.setor_model import SetorModel
+from app.infrastructure.database.models.funcionario_model import FuncionarioModel
+from app.infrastructure.database.models.upload_csv_model import UploadCsvModel
+from app.infrastructure.database.models.registro_ponto_model import RegistroPontoModel
+from app.infrastructure.database.models.relatorio_mensal_model import RelatorioMensalModel
